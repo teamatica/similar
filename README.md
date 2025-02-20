@@ -140,6 +140,8 @@ https://axerosolutions.com/features/employee-directory-software
 
 https://beyondintranet.com/sharepoint-employee-directory-software-app
 
+https://bigcontacts.com/organize-contacts
+
 https://bitleg.ru/catalog/resheniya_dlya_bitriks24/mcart.phonebook
 
 https://budibase.com/business-apps/templates/employee-directory-template
