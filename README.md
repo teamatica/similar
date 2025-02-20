@@ -36,6 +36,8 @@ https://futurelab.ru/mobile/blog/39-dokumentatsiya-po-komponentu-phonebook.html 
 
 https://github.com/anklimsk/internal-ldap-based-phonebook — PHP
 
+https://github.com/bangsmackpow/Company-Directory-AD2WEB — PHP + JS + Microsoft Active Directory
+
 https://github.com/BEPb/django-phonebook — Django
 
 https://github.com/bigov/phonebook — PHP + JS
@@ -114,6 +116,8 @@ https://mrstudio22.ru/php_all/unix_php/linux_028_tel.php — PHP + MySQL
 
 https://pvsm.ru/python/277179 — Python
 
+https://radicale.org — CalDAV + CardDAV
+
 https://sourceforge.net/projects/php-addressbook — PHP + MySQL
 
 https://stefanoceruti.wordpress.com/2020/07/23/create-a-global-address-book-for-teams — Microsoft Teams
@@ -141,6 +145,8 @@ https://bitleg.ru/catalog/resheniya_dlya_bitriks24/mcart.phonebook
 https://budibase.com/business-apps/templates/employee-directory-template
 
 https://capsulecrm.com/features/contact-management-software
+
+https://cirasync.com
 
 https://club.directum.ru/award/357707
 
