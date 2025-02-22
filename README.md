@@ -34,7 +34,11 @@ https://facebook.com/people/Phonebook-offline/100063678530647 — JSON
 
 https://futurelab.ru/mobile/blog/39-dokumentatsiya-po-komponentu-phonebook.html — Joomla
 
+https://github.com/aanu2021/Smart-Contact-Manager — Java
+
 https://github.com/anklimsk/internal-ldap-based-phonebook — PHP
+
+https://github.com/aws-samples/contacts-manager — Python + AWS
 
 https://github.com/bangsmackpow/Company-Directory-AD2WEB — PHP + JS + Microsoft Active Directory
 
@@ -44,19 +48,39 @@ https://github.com/bigov/phonebook — PHP + JS
 
 https://github.com/BikerIndian/eight-rooms — PHP + JS
 
+https://github.com/Cachamoe/Employee-Directory — React
+
 https://github.com/ccoenraets/directory-backbone-bootstrap — JS
 
 https://github.com/CDH-Studio/I-Talent — JS
 
+https://github.com/cerberussg/rolodex — Ruby
+
 https://github.com/cosmocode/contagged — PHP
 
+https://github.com/Destripador/empleados — Nextcloud
+
 https://github.com/dvk-net/phone-book — Python
+
+https://github.com/emarket-design/employee-directory — WordPress
+
+https://github.com/FossifyOrg/Contacts — Kotlin
+
+https://github.com/JoelDore/employee-directory — React
+
+https://github.com/jungjungie/Employee-Directory — React
 
 https://github.com/malmostad/intranet-dashboard — Ruby on Rails
 
 https://github.com/ManyakRus/Telegram_bot — Go
 
 https://github.com/mimikim/Employee-Directory-PHP-Application — PHP
+
+https://github.com/scaredofseagles/Employee-Directory — React
+
+https://github.com/Tanzgarnele/ContactManager — C#
+
+https://github.com/THEPHD1331/Employee-Directory — Java
 
 https://github.com/titulus/Telephone-Directory — JS
 
@@ -162,6 +186,12 @@ https://contactbase.net/address-book-app
 
 https://contactbook.app
 
+https://contactboss.com
+
+https://contactous.com/enterprise-contact-manager.html
+
+https://contactsmanager.com
+
 https://contactsplus.com
 
 https://dashboard.formaloo.com/templates/employee-directory-template
@@ -178,11 +208,15 @@ https://etsy.com/listing/737115373/employee-directory-excel-template
 
 https://fliplet.com/solution/employee-directory-app
 
+https://getsharedcontacts.com
+
 https://handyaddressbook.com
 
 https://instacheckin.io/instapeople
 
 https://interactsoftware.com/features/people-directory
+
+https://intoweb.com/human-resources/contacts-leads-client-management
 
 https://justsift.com/features/directory-search
 
@@ -198,7 +232,11 @@ https://nextdoc.ru/solutions/telefonnyj-spravochnik-organizatsii
 
 https://notion.so/use-case/employee-directory
 
+https://nutshell.com/features/contact-management
+
 https://oak.com/features/people-management
+
+https://officeclip.com/web/contact_manager
 
 https://onedirectory.com/employee-directory
 
@@ -220,11 +258,17 @@ https://primasoft.com/pro_software/employee_phone_directory_pro.htm
 
 https://qualtrics.com/support/employee-experience/directories/employee-directory-ex
 
+https://same-page.com/contact-management-software.html
+
+https://sharedcontactsmanager.com
+
 https://sheet2site.com/how-to-create-employee-directory
 
 https://softr.io/templates/employee-directory
 
 https://staffbase.com/en/add-ons/employee-directory
+
+https://teams-pro.com/en/browse-apps/contacts-pro
 
 https://voxlink.kz/products/callmetrix
 
