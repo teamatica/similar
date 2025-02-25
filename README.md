@@ -18,7 +18,7 @@
 
 `🆓`
 
-http://dmtsoft.ru/bn/707/as/oneaticleshablon — `Microsoft Active Directory`
+http://dmtsoft.ru/bn/707/as/oneaticleshablon — Microsoft Active Directory
 
 http://inbalt.webservis.ru/telphone.html — LibreOffice
 
