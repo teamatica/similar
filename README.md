@@ -18,7 +18,7 @@
 
 `🆓`
 
-http://dmtsoft.ru/bn/707/as/oneaticleshablon — Microsoft Active Directory
+http://dmtsoft.ru/bn/707/as/oneaticleshablon — `Microsoft Active Directory`
 
 http://inbalt.webservis.ru/telphone.html — LibreOffice
 
@@ -59,6 +59,8 @@ https://github.com/cerberussg/rolodex — Ruby
 https://github.com/cosmocode/contagged — PHP
 
 https://github.com/Destripador/empleados — Nextcloud
+
+https://github.com/devzero-inc/internal-employee-directory — JS
 
 https://github.com/dvk-net/phone-book — Python
 
@@ -212,6 +214,8 @@ https://getsharedcontacts.com
 
 https://handyaddressbook.com
 
+https://hr365.us/sharepoint-employee-directory-microsoft-teams
+
 https://instacheckin.io/instapeople
 
 https://interactsoftware.com/features/people-directory
@@ -226,9 +230,13 @@ https://leaveboard.com/employee-directory
 
 https://mango-office.ru/products/virtualnaya_ats/vozmozhnosti/address-book
 
+https://mangoapps.com/key-features/employee-directory
+
 https://myoffice.ru/apps/contacts
 
 https://nextdoc.ru/solutions/telefonnyj-spravochnik-organizatsii
+
+https://nodevision.com.au/employee-directory
 
 https://notion.so/use-case/employee-directory
 
@@ -250,7 +258,7 @@ https://phonebook-app.com
 
 https://phonebook.conscia.com
 
-https://pingboard.com/connection-features
+https://pingboard.com/employee-directory
 
 https://plugins.miniorange.com/employee-directory-and-staff-listing-for-wordpress
 
