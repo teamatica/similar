@@ -24,6 +24,8 @@ http://inbalt.webservis.ru/telphone.html — LibreOffice
 
 https://addsky.ru/telefonnyij-spravochnik-iz-active-directory-za-5-minut.html — PHP + Microsoft Active Directory
 
+https://apps.nextcloud.com/apps/contacts — Nextcloud
+
 https://discover.hubpages.com/technology/Simple-PHP-web-based-address-book-using-MySql — PHP + MySQL
 
 https://dokuwiki.org/plugin:addressbook — DokuWiki
@@ -71,6 +73,8 @@ https://github.com/FossifyOrg/Contacts — Kotlin
 https://github.com/JoelDore/employee-directory — React
 
 https://github.com/jungjungie/Employee-Directory — React
+
+https://github.com/lsfusion-solutions/mycompany — lsFusion
 
 https://github.com/malmostad/intranet-dashboard — Ruby on Rails
 
@@ -248,6 +252,8 @@ https://officeclip.com/web/contact_manager
 
 https://onedirectory.com/employee-directory
 
+https://orangehrm.com
+
 https://osp.ru/resources/releases?rid=334
 
 https://peopleforce.io/products/peoplehr/employee-directory
@@ -267,6 +273,8 @@ https://primasoft.com/pro_software/employee_phone_directory_pro.htm
 https://qualtrics.com/support/employee-experience/directories/employee-directory-ex
 
 https://same-page.com/contact-management-software.html
+
+https://seatable.com/template/employee-directory
 
 https://sharedcontactsmanager.com
 
